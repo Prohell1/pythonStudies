@@ -5,5 +5,6 @@
 ## [Section 4](/day-4) - Randomization and Lists
 
 # Useful links
-[Python Documentation](https://www.askpython.com/)
-[ASCII ART collection](https://ascii.co.uk/art)
+- [Python Documentation](https://docs.python.org/3/)
+- [Python useful tips and help](https://www.askpython.com/)
+- [ASCII ART collection](https://ascii.co.uk/art)
