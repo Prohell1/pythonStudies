@@ -5,6 +5,7 @@
 ### [Section 4](/day-4) - Randomization and Lists
 ### [Section 5](/day-5) - Loops
 ### [Section 6](/day-6) - Functions & Karel
+### [Section 7](/day-7) - Project: Hangman
 
 # Useful links
 - [Python Documentation](https://docs.python.org/3/)
