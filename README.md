@@ -4,6 +4,7 @@
 ### [Section 3](/day-3) - Control Flow and Logical Operators
 ### [Section 4](/day-4) - Randomization and Lists
 ### [Section 5](/day-5) - Loops
+### [Section 6](/day-6) - Functions & Karel
 
 # Useful links
 - [Python Documentation](https://docs.python.org/3/)
