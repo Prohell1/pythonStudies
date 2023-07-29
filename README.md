@@ -8,6 +8,7 @@
 #### [Section 7](/day-7) - Project: Hangman
 #### [Section 8](/day-8) - Function Parameters & Caesar Cypher
 #### [Section 9](/day-9) - Dictionaries, Nesting and the Secret Auction
+#### [Section 10](/day-10) - Functions with Outputs
 
 # Useful links
 - [Python Documentation](https://docs.python.org/3/)
