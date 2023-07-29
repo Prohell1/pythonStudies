@@ -91,6 +91,8 @@ def check_winner(p_hand, p_score, c_hand, condition):
         print("You win 😃")
     elif condition == "lose":
         print("You lose 😤")
+    elif condition == "both_bj":
+        print("You both had Blackjack! It's a draw.")
     else:
         print("You found a bug, please contact a developer ASAP!")
 
