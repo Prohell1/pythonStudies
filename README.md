@@ -1,15 +1,20 @@
 # Studies
-#### [Section 1](/day-1) - Working with Variables in Python to Manage Data
-#### [Section 2](/day-2) - Understanding Data Types and How to Manipulate Strings
-#### [Section 3](/day-3) - Control Flow and Logical Operators
-#### [Section 4](/day-4) - Randomization and Lists
-#### [Section 5](/day-5) - Loops
-#### [Section 6](/day-6) - Functions & Karel
-#### [Section 7](/day-7) - Project: Hangman
-#### [Section 8](/day-8) - Function Parameters & Caesar Cypher
-#### [Section 9](/day-9) - Dictionaries, Nesting and the Secret Auction
-#### [Section 10](/day-10) - Functions with Outputs
-#### [Section 11](/day-11) - Capstone Project: Blackjack
+<details>
+  <summary>Beginner</summary>
+
+-  <kbd>[Section 1 - Working with Variables in Python to Manage Data](/day-1)</kbd>
+-  <kbd>[Section 2 - Understanding Data Types and How to Manipulate Strings](/day-2)</kbd>
+-  <kbd>[Section 3 - Control Flow and Logical Operators](/day-3)</kbd>
+-  <kbd>[Section 4 - Randomization and Lists](/day-4)</kbd>
+-  <kbd>[Section 5 - Loops](/day-5)</kbd>
+-  <kbd>[Section 6 - Functions & Karel](/day-6)</kbd>
+-  <kbd>[Section 7 - Project: Hangman](/day-7)</kbd>
+-  <kbd>[Section 8 - Function Parameters & Caesar Cypher](/day-8)</kbd>
+-  <kbd>[Section 9 - Dictionaries, Nesting and the Secret Auction](/day-9)</kbd>
+-  <kbd>[Section 10 - Functions with Outputs](/day-10)</kbd>
+-  <kbd>[Section 11 - Capstone Project: Blackjack](/day-11)</kbd>
+
+</details>
 
 # Useful links
 - [Python Documentation](https://docs.python.org/3/)
