@@ -18,8 +18,15 @@
 -  <kbd>[Section 14 - Project: Higher Lower Game](/beginner/day-14)</kbd>
 </details>
 
+<details>
+  <summary>Intermediate</summary>
+
+-  <kbd>[Section 15 - The Coffee Machine](/intermediate/CoffeeMachine)</kbd>
+</details>
+
 # Useful links
 - [Python Documentation](https://docs.python.org/3/)
 - [Python useful tips and help](https://www.askpython.com/)
 - [ASCII ART collection](https://ascii.co.uk/art)
 - [Text to ASCII ART](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+- [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
