@@ -14,6 +14,7 @@
 -  <kbd>[Section 10 - Functions with Outputs](/beginner/day-10)</kbd>
 -  <kbd>[Section 11 - Capstone Project: Blackjack](/beginner/day-11)</kbd>
 -  <kbd>[Section 12 - Scope & Number Guessing Game](/beginner/day-12)</kbd>
+-  <kbd>[Section 13 - Debugging: How to Find and Fix Errors in the Code](/beginner/day-13)</kbd>
 
 </details>
 
