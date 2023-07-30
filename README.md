@@ -2,18 +2,18 @@
 <details>
   <summary>Beginner</summary>
 
--  <kbd>[Section 1 - Working with Variables in Python to Manage Data](/day-1)</kbd>
--  <kbd>[Section 2 - Understanding Data Types and How to Manipulate Strings](/day-2)</kbd>
--  <kbd>[Section 3 - Control Flow and Logical Operators](/day-3)</kbd>
--  <kbd>[Section 4 - Randomization and Lists](/day-4)</kbd>
--  <kbd>[Section 5 - Loops](/day-5)</kbd>
--  <kbd>[Section 6 - Functions & Karel](/day-6)</kbd>
--  <kbd>[Section 7 - Project: Hangman](/day-7)</kbd>
--  <kbd>[Section 8 - Function Parameters & Caesar Cypher](/day-8)</kbd>
--  <kbd>[Section 9 - Dictionaries, Nesting and the Secret Auction](/day-9)</kbd>
--  <kbd>[Section 10 - Functions with Outputs](/day-10)</kbd>
--  <kbd>[Section 11 - Capstone Project: Blackjack](/day-11)</kbd>
--  <kbd>[Section 12 - Scope & Number Guessing Game](/day-12)</kbd>
+-  <kbd>[Section 1 - Working with Variables in Python to Manage Data](/beginner/day-1)</kbd>
+-  <kbd>[Section 2 - Understanding Data Types and How to Manipulate Strings](/beginner/day-2)</kbd>
+-  <kbd>[Section 3 - Control Flow and Logical Operators](/beginner/day-3)</kbd>
+-  <kbd>[Section 4 - Randomization and Lists](/beginner/day-4)</kbd>
+-  <kbd>[Section 5 - Loops](/beginner/day-5)</kbd>
+-  <kbd>[Section 6 - Functions & Karel](/beginner/day-6)</kbd>
+-  <kbd>[Section 7 - Project: Hangman](/beginner/day-7)</kbd>
+-  <kbd>[Section 8 - Function Parameters & Caesar Cypher](/beginner/day-8)</kbd>
+-  <kbd>[Section 9 - Dictionaries, Nesting and the Secret Auction](/beginner/day-9)</kbd>
+-  <kbd>[Section 10 - Functions with Outputs](/beginner/day-10)</kbd>
+-  <kbd>[Section 11 - Capstone Project: Blackjack](/beginner/day-11)</kbd>
+-  <kbd>[Section 12 - Scope & Number Guessing Game](/beginner/day-12)</kbd>
 
 </details>
 
