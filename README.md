@@ -13,6 +13,7 @@
 -  <kbd>[Section 9 - Dictionaries, Nesting and the Secret Auction](/day-9)</kbd>
 -  <kbd>[Section 10 - Functions with Outputs](/day-10)</kbd>
 -  <kbd>[Section 11 - Capstone Project: Blackjack](/day-11)</kbd>
+-  <kbd>[Section 12 - Scope & Number Guessing Game](/day-12)</kbd>
 
 </details>
 
@@ -20,3 +21,4 @@
 - [Python Documentation](https://docs.python.org/3/)
 - [Python useful tips and help](https://www.askpython.com/)
 - [ASCII ART collection](https://ascii.co.uk/art)
+- [Text to ASCII ART](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
