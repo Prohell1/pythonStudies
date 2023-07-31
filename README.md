@@ -22,6 +22,7 @@
   <summary>Intermediate</summary>
 
 -  <kbd>[Section 15 - The Coffee Machine](/intermediate/CoffeeMachine)</kbd>
+-  <kbd>[Section 16 - Object-Oriented Programming(OOP)](/intermediate/day-16)</kbd>
 </details>
 
 # Useful links
@@ -30,3 +31,5 @@
 - [ASCII ART collection](https://ascii.co.uk/art)
 - [Text to ASCII ART](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
+- [Python Turtle Documentation](https://docs.python.org/3/library/turtle.html)
+- [Python Packages(Pypi)](https://pypi.org/)
