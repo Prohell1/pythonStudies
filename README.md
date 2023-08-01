@@ -21,11 +21,12 @@
 <details>
   <summary>Intermediate</summary>
 
--  <kbd>[Section 15 - The Coffee Machine](/intermediate/CoffeeMachine)</kbd>
+-  <kbd>[Section 15 - The Coffee Machine](/intermediate/coffee-machine)</kbd>
 -  <kbd>[Section 16 - Object-Oriented Programming(OOP)](/intermediate/day-16)</kbd>
 -  <kbd>[Section 17 - The Quiz Project & the Benefits of OOP](/intermediate/day-17)</kbd>
 -  <kbd>[Section 18 - Turtle & the Graphical User Interface (GUI)](/intermediate/day-18)</kbd>
--  <kbd>[Section 19 - Instances, State and Higher Order Functions](/intermediate/day-18)</kbd>
+-  <kbd>[Section 19 - Instances, State and Higher Order Functions](/intermediate/day-19)</kbd>
+-  <kbd>[Section 20 & 21 - Project: The Snake Game](/intermediate/snake-game)</kbd>
 </details>
 
 # Useful links
