@@ -24,6 +24,7 @@
 -  <kbd>[Section 15 - The Coffee Machine](/intermediate/CoffeeMachine)</kbd>
 -  <kbd>[Section 16 - Object-Oriented Programming(OOP)](/intermediate/day-16)</kbd>
 -  <kbd>[Section 17 - The Quiz Project & the Benefits of OOP](/intermediate/day-17)</kbd>
+-  <kbd>[Section 18 - Turtle & the Graphical User Interface (GUI)](/intermediate/day-18)</kbd>
 </details>
 
 # Useful links
