@@ -27,6 +27,7 @@
 -  <kbd>[Section 18 - Turtle & the Graphical User Interface (GUI)](/intermediate/day-18)</kbd>
 -  <kbd>[Section 19 - Instances, State and Higher Order Functions](/intermediate/day-19)</kbd>
 -  <kbd>[Section 20 & 21 - Project: The Snake Game](/intermediate/snake-game)</kbd>
+-  <kbd>[Section 22 - Project: Pong - The Famous Arcade Game](/intermediate/pong-game)</kbd>
 </details>
 
 # Useful links
