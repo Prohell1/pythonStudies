@@ -31,6 +31,7 @@
 -  <kbd>[Section 23 - Capstone Project: Turtle Crossing](/intermediate/turtle-crossing-game)</kbd>
 -  <kbd>[Section 24 - Files, Directories, and Paths](/intermediate/day-24)</kbd>
 -  <kbd>[Section 25 - Working with CSV Data and the Pandas Library](/intermediate/day-25)</kbd>
+-  <kbd>[Section 26 - List and Dictionary Comprehension](/intermediate/day-26)</kbd>
 </details>
 
 # Useful links
