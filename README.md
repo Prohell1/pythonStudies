@@ -28,6 +28,7 @@
 -  <kbd>[Section 19 - Instances, State and Higher Order Functions](/intermediate/day-19)</kbd>
 -  <kbd>[Section 20 & 21 - Project: The Snake Game](/intermediate/snake-game)</kbd>
 -  <kbd>[Section 22 - Project: Pong - The Famous Arcade Game](/intermediate/pong-game)</kbd>
+-  <kbd>[Section 23 - Capstone Project: Turtle Crossing](/intermediate/turtle-crossing-game)</kbd>
 </details>
 
 # Useful links
