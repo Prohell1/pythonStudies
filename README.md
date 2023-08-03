@@ -30,6 +30,7 @@
 -  <kbd>[Section 22 - Project: Pong - The Famous Arcade Game](/intermediate/pong-game)</kbd>
 -  <kbd>[Section 23 - Capstone Project: Turtle Crossing](/intermediate/turtle-crossing-game)</kbd>
 -  <kbd>[Section 24 - Files, Directories, and Paths](/intermediate/day-24)</kbd>
+-  <kbd>[Section 25 - Working with CSV Data and the Pandas Library](/intermediate/day-25)</kbd>
 </details>
 
 # Useful links
@@ -40,3 +41,4 @@
 - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
 - [Python Turtle Documentation](https://docs.python.org/3/library/turtle.html)
 - [Python Packages(Pypi)](https://pypi.org/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
