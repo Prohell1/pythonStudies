@@ -29,6 +29,7 @@
 -  <kbd>[Section 20 & 21 - Project: The Snake Game](/intermediate/snake-game)</kbd>
 -  <kbd>[Section 22 - Project: Pong - The Famous Arcade Game](/intermediate/pong-game)</kbd>
 -  <kbd>[Section 23 - Capstone Project: Turtle Crossing](/intermediate/turtle-crossing-game)</kbd>
+-  <kbd>[Section 24 - Files, Directories, and Paths](/intermediate/day-24)</kbd>
 </details>
 
 # Useful links
