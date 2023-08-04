@@ -33,6 +33,7 @@
 -  <kbd>[Section 25 - Working with CSV Data and the Pandas Library](/intermediate/day-25)</kbd>
 -  <kbd>[Section 26 - List and Dictionary Comprehension](/intermediate/day-26)</kbd>
 -  <kbd>[Section 27 - Tkinter, *args, **kwargs](/intermediate/day-27)</kbd>
+-  <kbd>[Section 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application](/intermediate/pomodoro)</kbd>
 </details>
 
 # Useful links
