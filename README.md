@@ -32,6 +32,7 @@
 -  <kbd>[Section 24 - Files, Directories, and Paths](/intermediate/day-24)</kbd>
 -  <kbd>[Section 25 - Working with CSV Data and the Pandas Library](/intermediate/day-25)</kbd>
 -  <kbd>[Section 26 - List and Dictionary Comprehension](/intermediate/day-26)</kbd>
+-  <kbd>[Section 27 - Tkinter, *args, **kwargs](/intermediate/day-27)</kbd>
 </details>
 
 # Useful links
@@ -43,3 +44,4 @@
 - [Python Turtle Documentation](https://docs.python.org/3/library/turtle.html)
 - [Python Packages(Pypi)](https://pypi.org/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html#)
