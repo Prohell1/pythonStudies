@@ -36,6 +36,7 @@
 -  <kbd>[Section 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application](/intermediate/pomodoro)</kbd>
 -  <kbd>[Section 29 - Building a Password Manager GUI App with Tkinter](/intermediate/password-manager)</kbd>
 -  <kbd>[Section 30 - Errors, Exceptions, and JSON Data: Improving the Password Manager](/intermediate/day-30)</kbd>
+-  <kbd>[Section 31 - Capstone Project: Flash Card App](/intermediate/flash-card)</kbd>
 </details>
 
 # Useful links
