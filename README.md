@@ -36,7 +36,13 @@
 -  <kbd>[Section 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application](/intermediate/pomodoro)</kbd>
 -  <kbd>[Section 29 - Building a Password Manager GUI App with Tkinter](/intermediate/password-manager)</kbd>
 -  <kbd>[Section 30 - Errors, Exceptions, and JSON Data: Improving the Password Manager](/intermediate/day-30)</kbd>
--  <kbd>[Section 31 - Capstone Project: Flash Card App](/intermediate/flash-card)</kbd>
+-  <kbd>[Section 31 - Capstone Project: Flash Card App](/intermediate/flash-card )</kbd>
+</details>
+
+<details>
+  <summary>Intermediate +</summary>
+
+-  <kbd>[Section 32 - Send Email(smtplib) & Manage Dates(datetime)](/intermediate/coffee-machine)</kbd>
 </details>
 
 # Useful links
@@ -49,3 +55,4 @@
 - [Python Packages(Pypi)](https://pypi.org/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html#)
+- [Python Anywhere](https://www.pythonanywhere.com/)
