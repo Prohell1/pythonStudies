@@ -42,7 +42,8 @@
 <details>
   <summary>Intermediate +</summary>
 
--  <kbd>[Section 32 - Send Email(smtplib) & Manage Dates(datetime)](/intermediate/coffee-machine)</kbd>
+-  <kbd>[Section 32 - Send Email(smtplib) & Manage Dates(datetime)](/intermediate+/day-32)</kbd>
+-  <kbd>[Section 33 - API Endpoints & API Parameters - ISS Overhead Notifier](/intermediate+/day-33)</kbd>
 </details>
 
 # Useful links
@@ -56,3 +57,4 @@
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html#)
 - [Python Anywhere](https://www.pythonanywhere.com/)
+- [Python Requests documentation](https://docs.python-requests.org/en/latest/)
