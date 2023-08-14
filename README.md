@@ -44,6 +44,7 @@
 
 -  <kbd>[Section 32 - Send Email(smtplib) & Manage Dates(datetime)](/intermediate+/day-32)</kbd>
 -  <kbd>[Section 33 - API Endpoints & API Parameters - ISS Overhead Notifier](/intermediate+/day-33)</kbd>
+-  <kbd>[Section 34 - API Practice - Creating a GUI Quiz App](/intermediate+/GUI-quiz-app)</kbd>
 </details>
 
 # Useful links
