@@ -45,6 +45,7 @@
 -  <kbd>[Section 32 - Send Email(smtplib) & Manage Dates(datetime)](/intermediate+/day-32)</kbd>
 -  <kbd>[Section 33 - API Endpoints & API Parameters - ISS Overhead Notifier](/intermediate+/day-33)</kbd>
 -  <kbd>[Section 34 - API Practice - Creating a GUI Quiz App](/intermediate+/GUI-quiz-app)</kbd>
+-  <kbd>[Section 35 - Keys, Authentication & Environment Variables: Send SMS](/intermediate+/rain-alert)</kbd>
 </details>
 
 # Useful links
@@ -59,3 +60,5 @@
 - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html#)
 - [Python Anywhere](https://www.pythonanywhere.com/)
 - [Python Requests documentation](https://docs.python-requests.org/en/latest/)
+- [Online Json viewer](https://jsonviewer.stack.hu/)
+- [Api collection](https://apilist.fun/)
