@@ -46,6 +46,7 @@
 -  <kbd>[Section 33 - API Endpoints & API Parameters - ISS Overhead Notifier](/intermediate+/day-33)</kbd>
 -  <kbd>[Section 34 - API Practice - Creating a GUI Quiz App](/intermediate+/GUI-quiz-app)</kbd>
 -  <kbd>[Section 35 - Keys, Authentication & Environment Variables: Send SMS](/intermediate+/rain-alert)</kbd>
+-  <kbd>[Section 36 - Stock Trading News Alert Project](/intermediate+/stock-news-app)</kbd>
 </details>
 
 # Useful links
