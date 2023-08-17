@@ -47,6 +47,7 @@
 -  <kbd>[Section 34 - API Practice - Creating a GUI Quiz App](/intermediate+/GUI-quiz-app)</kbd>
 -  <kbd>[Section 35 - Keys, Authentication & Environment Variables: Send SMS](/intermediate+/rain-alert)</kbd>
 -  <kbd>[Section 36 - Stock Trading News Alert Project](/intermediate+/stock-news-app)</kbd>
+-  <kbd>[Section 37 - Habit tracking Project: API Post Requests & Headers](/intermediate+/habit-tracker)</kbd>
 </details>
 
 # Useful links
