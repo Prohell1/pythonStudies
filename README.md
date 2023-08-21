@@ -48,6 +48,7 @@
 -  <kbd>[Section 35 - Keys, Authentication & Environment Variables: Send SMS](/intermediate+/rain-alert)</kbd>
 -  <kbd>[Section 36 - Stock Trading News Alert Project](/intermediate+/stock-news-app)</kbd>
 -  <kbd>[Section 37 - Habit tracking Project: API Post Requests & Headers](/intermediate+/habit-tracker)</kbd>
+-  <kbd>[Section 38 - Workout Tracking using Google Sheets](/intermediate+/workout-tracking)</kbd>
 </details>
 
 # Useful links
